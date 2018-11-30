@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Screen">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="screen_on"
+            android:summary="Check to keep screen always on"
+            android:title="Keep Screen On" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Theme">
+        <ListPreference
+            android:defaultValue="1"
+            android:dialogTitle="Choose Theme"
+            android:entries="@array/pref_theme_mode"
+            android:entryValues="@array/pref_theme_mode_values"
+            android:key="@string/themechangeMode"
+            android:summary="Choose a theme"
+            android:title="@string/pref_title_theme_mode" />
+        <ListPreference
+            android:defaultValue="1"
+            android:dialogTitle="Choose Colour"
+            android:entries="@array/pref_theme_color"
+            android:entryValues="@array/pref_theme_color_values"
+            android:key="@string/themechangeColor"
+            android:summary="Choose a color"
+            android:title="@string/pref_title_theme_color" />
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Text">
+        <ListPreference
+            android:defaultValue="18"
+            android:entries="@array/pref_font_size_titles"
+            android:entryValues="@array/pref_font_size_values"
+            android:key="@string/fontSizeChangeName"
+            android:title="@string/pref_title_font_size" />
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/action_about">
+        <Preference
+            android:selectable="false"
+            android:summary="@string/summary_about" />
+
+        <Preference
+            android:summary="@string/app_version"
+            android:title="@string/title_version" />
+
+        <Preference
+
+            android:summary="@string/summary_support"
+            android:title="@string/title_send_feedback" />
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,365 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- BLue Dark theme. -->
+    <style name="AppThemeDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="AppThemeDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppThemeDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppThemeDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!--Green Apples  Light Theme-->
+    <style name="GreenApple" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryGA</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGA</item>
+        <item name="colorAccent">@color/colorAccentGA</item>
+
+    </style>
+
+    <style name="GreenApple.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="GreenApple.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="GreenApple.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Green Apples dark  Light Theme-->
+    <style name="GreenAppleDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryGA</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGA</item>
+        <item name="colorAccent">@color/colorAccentGA</item>
+
+    </style>
+
+    <style name="GreenAppleDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="GreenAppleDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="GreenAppleDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--FieryOrange Light Theme-->
+    <style name="FireOrange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryFO</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkFO</item>
+        <item name="colorAccent">@color/colorAccentFO</item>
+
+    </style>
+
+    <style name="FireOrange.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="FireOrange.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="FireOrange.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Fiery orange dark  Light Theme-->
+    <style name="FireOrangeDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryFO</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkFO</item>
+        <item name="colorAccent">@color/colorAccentFO</item>
+
+    </style>
+
+    <style name="FireOrangeDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="FireOrangeDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="FireOrangeDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!--SkyBlue Light Theme-->
+    <style name="SkyBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimarySB</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSB</item>
+        <item name="colorAccent">@color/colorAccentSB</item>
+
+    </style>
+
+    <style name="SkyBlue.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="SkyBlue.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="SkyBlue.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Sky blue dark  Light Theme-->
+    <style name="SkyBlueDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimarySB</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSB</item>
+        <item name="colorAccent">@color/colorAccentSB</item>
+
+    </style>
+
+    <style name="SkyBlueDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="SkyBlueDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="SkyBlueDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!--PurpleGrapes Light Theme-->
+    <style name="PurpleGrapes" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryPG</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPG</item>
+        <item name="colorAccent">@color/colorAccentPG</item>
+
+    </style>
+
+    <style name="PurpleGrapes.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="PurpleGrapes.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="PurpleGrapes.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Purple Grapes dark  Light Theme-->
+    <style name="PurpleGrapesDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryPG</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPG</item>
+        <item name="colorAccent">@color/colorAccentPG</item>
+
+    </style>
+
+    <style name="PurpleGrapesDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="PurpleGrapesDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="PurpleGrapesDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!--Mint Blue Light Theme-->
+    <style name="MintBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryMB</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkMB</item>
+        <item name="colorAccent">@color/colorAccentMB</item>
+
+    </style>
+
+    <style name="MintBlue.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MintBlue.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MintBlue.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--MintBlue dark  Light Theme-->
+    <style name="MintBlueDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryMB</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkMB</item>
+        <item name="colorAccent">@color/colorAccentMB</item>
+
+    </style>
+
+    <style name="MintBlueDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MintBlueDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MintBlueDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--SweetPink Light Theme-->
+    <style name="SweetPink" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimarySP</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSP</item>
+        <item name="colorAccent">@color/colorAccentSP</item>
+
+    </style>
+
+    <style name="SweetPink.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="SweetPink.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="SweetPink.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--SweetPink dark  Light Theme-->
+    <style name="SweetPinkDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimarySP</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSP</item>
+        <item name="colorAccent">@color/colorAccentSP</item>
+
+    </style>
+
+    <style name="SweetPinkDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="SweetPinkDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="SweetPinkDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--LakeTeal Light Theme-->
+    <style name="LakeTeal" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryLT</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkLT</item>
+        <item name="colorAccent">@color/colorAccentLT</item>
+
+    </style>
+
+    <style name="LakeTeal.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="LakeTeal.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="LakeTeal.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--LakeTeal dark  Light Theme-->
+    <style name="LakeTealDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryLT</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkLT</item>
+        <item name="colorAccent">@color/colorAccentLT</item>
+
+    </style>
+
+    <style name="LakeTealDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="LakeTealDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="LakeTealDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--HeavyGreen Light Theme-->
+    <style name="HeavyGreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryHG</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkHG</item>
+        <item name="colorAccent">@color/colorAccentHG</item>
+
+    </style>
+
+    <style name="HeavyGreen.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="HeavyGreen.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="HeavyGreen.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--HeavyGreen dark  Light Theme-->
+    <style name="HeavyGreenDark" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryHG</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkHG</item>
+        <item name="colorAccent">@color/colorAccentHG</item>
+
+    </style>
+
+    <style name="HeavyGreenDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="HeavyGreenDark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="HeavyGreenDark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Black Sky Light Mode-->
+    <style name="DarkL.AppTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+
+    </style>
+
+    <style name="DarkL.AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="DarkL.AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    <style name="DarkL.AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+
+    <!--Black Sky dark Mode-->
+    <style name="Dark.AppTheme" parent="Theme.AppCompat" >
+        <item name="android:colorBackground">@color/primary_material_dark</item>
+        <item name="android:colorForeground">@android:color/background_light</item>
+        <item name="android:textColorPrimary">@color/cardview_light_background</item>
+        <item name="android:textColorSecondary">@color/secondary_text_material_dark</item>
+    </style>
+
+    <style name="Dark.AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Dark.AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    <style name="Dark.AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+
+</resources>

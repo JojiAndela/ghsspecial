@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#33B5E5</color>
+    <color name="colorwhite">#ffff</color>
+    <color name="colorTransBg">#26000000</color>
+    <color name="secondary_text_material_dark">#dce2dfdf</color>
+    <color name="colorPrimaryGA">#8bc34a</color>
+    <color name="colorPrimaryDarkGA">#558b2f</color>
+    <color name="colorAccentGA">#aeea00</color>
+    <color name="colorAccentFO">#dd2c00</color>
+    <color name="colorPrimaryDarkFO">#f57c00</color>
+    <color name="colorPrimaryFO">#ff9800</color>
+    <color name="colorPrimarySB">#03a9f4</color>
+    <color name="colorPrimaryDarkSB">#0288d1</color>
+    <color name="colorAccentSB">#dd2c00</color>
+    <color name="colorAccentPG">#00c853</color>
+    <color name="colorPrimaryDarkPG">#7b1fa2</color>
+    <color name="colorPrimaryPG">#9c27b0</color>
+    <color name="colorPrimaryMB">#00bcd4</color>
+    <color name="colorPrimaryDarkMB">#0097a7</color>
+    <color name="colorAccentMB">#ffab40</color>
+    <color name="colorAccentSP">#d500f9</color>
+    <color name="colorPrimaryDarkSP">#c2185b</color>
+    <color name="colorPrimarySP">#e91e63</color>
+    <color name="colorAccentLT">#1de9b6</color>
+    <color name="colorPrimaryDarkLT">#00796b</color>
+    <color name="colorPrimaryLT">#009688</color>
+    <color name="colorPrimaryHG">#4caf50</color>
+    <color name="colorPrimaryDarkHG">#388e3c</color>
+    <color name="colorAccentHG">#fb8c00</color>
+</resources>

@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jojitoon.jesusme.ghsspecial.HymnSection">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/hymnlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="5dp"
+        app:layoutManager="LinearLayoutManager"
+        tools:listitem="@layout/hymn_row"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabscroll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/down_arrow"
+        android:visibility="visible"
+        app:borderWidth="0dp"
+        app:elevation="7dp"
+        app:backgroundTint="#fff"
+        android:layout_alignBottom="@+id/hymnlist"
+        android:layout_centerInParent="true"
+        app:fabSize="mini" />
+</RelativeLayout>
